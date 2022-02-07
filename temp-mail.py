@@ -57,7 +57,7 @@ $$/      $$/ $$/   $$/ $$/      $$/  $$$$$$/  $$/   $$/
 def logout():
     psb("\n\033[92m    [*] Thanks For Using My Tool..")
     psb("    [*] For More Tools, Visit : \n")
-    psb("      [ https://github.com/ariyanahmedmamun ]\n")
+    psb("      [ https://github.com/Mamun-404 ]\n")
     sys.exit()
 """
 def ver_check():
