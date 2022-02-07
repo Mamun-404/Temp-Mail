@@ -8,7 +8,7 @@ $ apt upgrade -y
 
 $ pkg install python
 
-$ git clone https://github.com/Ariyanahmedmamun/Temp-Mail/
+$ git clone https://github.com/Mamun-404/Temp-Mail
 
 # Run
 
