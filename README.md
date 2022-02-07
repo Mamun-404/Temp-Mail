@@ -10,6 +10,8 @@ $ pkg install python
 
 $ git clone https://github.com/Ariyanahmedmamun/Temp-Mail/
 
+# Run
+
 $ cd Temp-Mail
 
 $ pip install requests
@@ -17,3 +19,4 @@ $ pip install requests
 $ python temp-mail.py
 
 
+# Enjoy🙂✌
